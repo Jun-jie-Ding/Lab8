@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Profile_Manager"
+rootProject.name = "lab5"
