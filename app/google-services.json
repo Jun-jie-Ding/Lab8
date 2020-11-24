@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635940360409",
+    "firebase_url": "https://lab5-dda20.firebaseio.com",
+    "project_id": "lab5-dda20",
+    "storage_bucket": "lab5-dda20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635940360409:android:6aee88834aa7d5f657eec8",
+        "android_client_info": {
+          "package_name": "com.example.lab5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635940360409-c41tf8g4e9qdqdtodjv6ebdimsd4c0pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIcc8mn_JbuG44vR-aKTBLj-ZYo2RUGJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635940360409-c41tf8g4e9qdqdtodjv6ebdimsd4c0pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
