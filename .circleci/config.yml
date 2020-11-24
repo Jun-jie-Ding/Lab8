@@ -16,6 +16,13 @@ jobs:
       - run:
           name: Download Dependencies
           command: ./gradlew androidDependencies
+     - run:
+          name: Update SDK
+          command: (echo y; echo y; echo y; echo y; echo y; echo y) | sdkmanager --update
+     - run:
+          name: Approve Licenses
+          command: (echo y; echo y; echo y; echo y; echo y; echo y) | sdkmanager --licenses
+
       - save_cache:
           paths:
             - ~/.gradle
