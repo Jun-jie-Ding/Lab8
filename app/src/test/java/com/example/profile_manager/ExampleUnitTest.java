@@ -1,4 +1,4 @@
-package com.example.lab5;
+package com.example.profile_manager;
 
 import org.junit.Test;
 
